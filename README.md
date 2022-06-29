@@ -10,7 +10,7 @@
 
 ## Resources Used
 • Packages: **pandas, numpy, sklearn, matplotlib, seaborn.**<br/>
-• Dataset by **Ken Jee**: https://github.com/PlayingNumbers/ds_salary_proj
+
 
 ## Exploratory Data Analysis (EDA) and Data Cleaning
 • **Removed unwanted columns**: 'Unnamed: 0'<br/>
